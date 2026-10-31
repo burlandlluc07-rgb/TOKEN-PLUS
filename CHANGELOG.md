@@ -2,6 +2,11 @@
 
 All notable changes to token-plus are documented here. This project follows [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+- `scripts/build-zip.sh` and a Release workflow that attaches an upload-ready `token-plus-<version>.zip` (manifest at `token-plus/.claude-plugin/plugin.json`) to GitHub releases for `v*` tags; CI checks the zip layout.
+
 ## [0.1.0] - 2026-10-31
 
 ### Added

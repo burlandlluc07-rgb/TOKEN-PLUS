@@ -39,6 +39,8 @@ From GitHub (this repository is a plugin marketplace):
 
 Restart Claude Code (or run `/reload-plugins` if your version has it) so the hooks load.
 
+As a zip upload (for example in the Claude web app): download `token-plus-<version>.zip` from the [latest release](https://github.com/burlandlluc07-rgb/TOKEN-PLUS/releases/latest). Don't use GitHub's "Download ZIP" button: that zip is the whole marketplace repo, so `plugin.json` is not where the uploader looks. To build the zip yourself, run `scripts/build-zip.sh`, which writes it to `dist/`.
+
 From a local checkout, for development or to try it out:
 
 ```bash

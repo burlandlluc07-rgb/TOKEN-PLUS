@@ -3,3 +3,4 @@ node_modules/
 .claude/token-plus/
 .claude/token-plus-state.json
 *.tmp
+dist/
