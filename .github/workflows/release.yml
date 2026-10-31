@@ -1,0 +1,44 @@
+name: Release
+
+# Push a tag like v0.1.0 (matching plugin.json "version") to publish a GitHub
+# release with an upload-ready token-plus-<version>.zip attached.
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate and test
+        run: npm run check
+      - name: Check tag matches plugin version
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          v=$(node -p "require('./plugins/token-plus/.claude-plugin/plugin.json').version")
+          [ "v$v" = "${GITHUB_REF_NAME}" ] || { echo "tag ${GITHUB_REF_NAME} != plugin version v$v"; exit 1; }
+      - name: Build plugin zip
+        id: zip
+        run: echo "path=$(scripts/build-zip.sh dist)" >> "$GITHUB_OUTPUT"
+      - name: Upload zip as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: token-plus-plugin-zip
+          path: ${{ steps.zip.outputs.path }}
+      - name: Publish GitHub release
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1 \
+            && gh release upload "$GITHUB_REF_NAME" "${{ steps.zip.outputs.path }}" --clobber \
+            || gh release create "$GITHUB_REF_NAME" "${{ steps.zip.outputs.path }}" --title "token-plus $GITHUB_REF_NAME" --notes "Upload-ready plugin zip: token-plus/.claude-plugin/plugin.json at the zip root folder. See CHANGELOG.md."
