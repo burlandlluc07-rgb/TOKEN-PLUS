@@ -31,4 +31,4 @@ jobs:
       - name: Unit + integration tests
         run: npm test
       - name: Build upload zip and check layout
-        run: scripts/build-zip.sh "$RUNNER_TEMP"
+        run: scripts/build-zip.sh dist  # relative on purpose, like release.yml

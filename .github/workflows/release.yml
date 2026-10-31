@@ -6,6 +6,11 @@ on:
   push:
     tags: ['v*']
   workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Existing release tag to (re)attach the zip to, e.g. v0.1.0. Leave empty to only build the artifact.'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -21,11 +26,20 @@ jobs:
           node-version: 22
       - name: Validate and test
         run: npm run check
+      - name: Resolve release tag
+        id: tag
+        env:
+          INPUT_TAG: ${{ inputs.tag }}
+        run: |
+          if [ -n "$INPUT_TAG" ]; then t="$INPUT_TAG"
+          elif [ "${GITHUB_REF_TYPE}" = "tag" ]; then t="${GITHUB_REF_NAME}"
+          else t=""; fi
+          echo "name=$t" >> "$GITHUB_OUTPUT"
       - name: Check tag matches plugin version
-        if: startsWith(github.ref, 'refs/tags/')
+        if: steps.tag.outputs.name != ''
         run: |
           v=$(node -p "require('./plugins/token-plus/.claude-plugin/plugin.json').version")
-          [ "v$v" = "${GITHUB_REF_NAME}" ] || { echo "tag ${GITHUB_REF_NAME} != plugin version v$v"; exit 1; }
+          [ "v$v" = "${{ steps.tag.outputs.name }}" ] || { echo "tag ${{ steps.tag.outputs.name }} != plugin version v$v"; exit 1; }
       - name: Build plugin zip
         id: zip
         run: echo "path=$(scripts/build-zip.sh dist)" >> "$GITHUB_OUTPUT"
@@ -35,10 +49,15 @@ jobs:
           name: token-plus-plugin-zip
           path: ${{ steps.zip.outputs.path }}
       - name: Publish GitHub release
-        if: startsWith(github.ref, 'refs/tags/')
+        if: steps.tag.outputs.name != ''
         env:
           GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.tag.outputs.name }}
+          ZIP: ${{ steps.zip.outputs.path }}
         run: |
-          gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1 \
-            && gh release upload "$GITHUB_REF_NAME" "${{ steps.zip.outputs.path }}" --clobber \
-            || gh release create "$GITHUB_REF_NAME" "${{ steps.zip.outputs.path }}" --title "token-plus $GITHUB_REF_NAME" --notes "Upload-ready plugin zip: token-plus/.claude-plugin/plugin.json at the zip root folder. See CHANGELOG.md."
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$ZIP" --clobber
+          else
+            gh release create "$TAG" "$ZIP" --title "token-plus $TAG" \
+              --notes "Upload-ready plugin zip: token-plus/.claude-plugin/plugin.json inside a single top-level folder. See CHANGELOG.md."
+          fi
