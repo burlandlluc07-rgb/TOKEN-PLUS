@@ -1,0 +1,406 @@
+=== RUN   TestThing0
+--- PASS: TestThing0 (0.00s)
+=== RUN   TestThing1
+--- PASS: TestThing1 (0.00s)
+=== RUN   TestThing2
+--- PASS: TestThing2 (0.00s)
+=== RUN   TestThing3
+--- PASS: TestThing3 (0.00s)
+=== RUN   TestThing4
+--- PASS: TestThing4 (0.00s)
+=== RUN   TestThing5
+--- PASS: TestThing5 (0.00s)
+=== RUN   TestThing6
+--- PASS: TestThing6 (0.00s)
+=== RUN   TestThing7
+--- PASS: TestThing7 (0.00s)
+=== RUN   TestThing8
+--- PASS: TestThing8 (0.00s)
+=== RUN   TestThing9
+--- PASS: TestThing9 (0.00s)
+=== RUN   TestThing10
+--- PASS: TestThing10 (0.00s)
+=== RUN   TestThing11
+--- PASS: TestThing11 (0.00s)
+=== RUN   TestThing12
+--- PASS: TestThing12 (0.00s)
+=== RUN   TestThing13
+--- PASS: TestThing13 (0.00s)
+=== RUN   TestThing14
+--- PASS: TestThing14 (0.00s)
+=== RUN   TestThing15
+--- PASS: TestThing15 (0.00s)
+=== RUN   TestThing16
+--- PASS: TestThing16 (0.00s)
+=== RUN   TestThing17
+--- PASS: TestThing17 (0.00s)
+=== RUN   TestThing18
+--- PASS: TestThing18 (0.00s)
+=== RUN   TestThing19
+--- PASS: TestThing19 (0.00s)
+=== RUN   TestThing20
+--- PASS: TestThing20 (0.00s)
+=== RUN   TestThing21
+--- PASS: TestThing21 (0.00s)
+=== RUN   TestThing22
+--- PASS: TestThing22 (0.00s)
+=== RUN   TestThing23
+--- PASS: TestThing23 (0.00s)
+=== RUN   TestThing24
+--- PASS: TestThing24 (0.00s)
+=== RUN   TestThing25
+--- PASS: TestThing25 (0.00s)
+=== RUN   TestThing26
+--- PASS: TestThing26 (0.00s)
+=== RUN   TestThing27
+--- PASS: TestThing27 (0.00s)
+=== RUN   TestThing28
+--- PASS: TestThing28 (0.00s)
+=== RUN   TestThing29
+--- PASS: TestThing29 (0.00s)
+=== RUN   TestThing30
+--- PASS: TestThing30 (0.00s)
+=== RUN   TestThing31
+--- PASS: TestThing31 (0.00s)
+=== RUN   TestThing32
+--- PASS: TestThing32 (0.00s)
+=== RUN   TestThing33
+--- PASS: TestThing33 (0.00s)
+=== RUN   TestThing34
+--- PASS: TestThing34 (0.00s)
+=== RUN   TestThing35
+--- PASS: TestThing35 (0.00s)
+=== RUN   TestThing36
+--- PASS: TestThing36 (0.00s)
+=== RUN   TestThing37
+--- PASS: TestThing37 (0.00s)
+=== RUN   TestThing38
+--- PASS: TestThing38 (0.00s)
+=== RUN   TestThing39
+--- PASS: TestThing39 (0.00s)
+=== RUN   TestThing40
+--- PASS: TestThing40 (0.00s)
+=== RUN   TestThing41
+--- PASS: TestThing41 (0.00s)
+=== RUN   TestThing42
+--- PASS: TestThing42 (0.00s)
+=== RUN   TestThing43
+--- PASS: TestThing43 (0.00s)
+=== RUN   TestThing44
+--- PASS: TestThing44 (0.00s)
+=== RUN   TestThing45
+--- PASS: TestThing45 (0.00s)
+=== RUN   TestThing46
+--- PASS: TestThing46 (0.00s)
+=== RUN   TestThing47
+--- PASS: TestThing47 (0.00s)
+=== RUN   TestThing48
+--- PASS: TestThing48 (0.00s)
+=== RUN   TestThing49
+--- PASS: TestThing49 (0.00s)
+=== RUN   TestThing50
+--- PASS: TestThing50 (0.00s)
+=== RUN   TestThing51
+--- PASS: TestThing51 (0.00s)
+=== RUN   TestThing52
+--- PASS: TestThing52 (0.00s)
+=== RUN   TestThing53
+--- PASS: TestThing53 (0.00s)
+=== RUN   TestThing54
+--- PASS: TestThing54 (0.00s)
+=== RUN   TestThing55
+--- PASS: TestThing55 (0.00s)
+=== RUN   TestThing56
+--- PASS: TestThing56 (0.00s)
+=== RUN   TestThing57
+--- PASS: TestThing57 (0.00s)
+=== RUN   TestThing58
+--- PASS: TestThing58 (0.00s)
+=== RUN   TestThing59
+--- PASS: TestThing59 (0.00s)
+=== RUN   TestThing60
+--- PASS: TestThing60 (0.00s)
+=== RUN   TestThing61
+--- PASS: TestThing61 (0.00s)
+=== RUN   TestThing62
+--- PASS: TestThing62 (0.00s)
+=== RUN   TestThing63
+--- PASS: TestThing63 (0.00s)
+=== RUN   TestThing64
+--- PASS: TestThing64 (0.00s)
+=== RUN   TestThing65
+--- PASS: TestThing65 (0.00s)
+=== RUN   TestThing66
+--- PASS: TestThing66 (0.00s)
+=== RUN   TestThing67
+--- PASS: TestThing67 (0.00s)
+=== RUN   TestThing68
+--- PASS: TestThing68 (0.00s)
+=== RUN   TestThing69
+--- PASS: TestThing69 (0.00s)
+=== RUN   TestThing70
+--- PASS: TestThing70 (0.00s)
+=== RUN   TestThing71
+--- PASS: TestThing71 (0.00s)
+=== RUN   TestThing72
+--- PASS: TestThing72 (0.00s)
+=== RUN   TestThing73
+--- PASS: TestThing73 (0.00s)
+=== RUN   TestThing74
+--- PASS: TestThing74 (0.00s)
+=== RUN   TestThing75
+--- PASS: TestThing75 (0.00s)
+=== RUN   TestThing76
+--- PASS: TestThing76 (0.00s)
+=== RUN   TestThing77
+--- PASS: TestThing77 (0.00s)
+=== RUN   TestThing78
+--- PASS: TestThing78 (0.00s)
+=== RUN   TestThing79
+--- PASS: TestThing79 (0.00s)
+=== RUN   TestThing80
+--- PASS: TestThing80 (0.00s)
+=== RUN   TestThing81
+--- PASS: TestThing81 (0.00s)
+=== RUN   TestThing82
+--- PASS: TestThing82 (0.00s)
+=== RUN   TestThing83
+--- PASS: TestThing83 (0.00s)
+=== RUN   TestThing84
+--- PASS: TestThing84 (0.00s)
+=== RUN   TestThing85
+--- PASS: TestThing85 (0.00s)
+=== RUN   TestThing86
+--- PASS: TestThing86 (0.00s)
+=== RUN   TestThing87
+--- PASS: TestThing87 (0.00s)
+=== RUN   TestThing88
+--- PASS: TestThing88 (0.00s)
+=== RUN   TestThing89
+--- PASS: TestThing89 (0.00s)
+=== RUN   TestThing90
+--- PASS: TestThing90 (0.00s)
+=== RUN   TestThing91
+--- PASS: TestThing91 (0.00s)
+=== RUN   TestThing92
+--- PASS: TestThing92 (0.00s)
+=== RUN   TestThing93
+--- PASS: TestThing93 (0.00s)
+=== RUN   TestThing94
+--- PASS: TestThing94 (0.00s)
+=== RUN   TestThing95
+--- PASS: TestThing95 (0.00s)
+=== RUN   TestThing96
+--- PASS: TestThing96 (0.00s)
+=== RUN   TestThing97
+--- PASS: TestThing97 (0.00s)
+=== RUN   TestThing98
+--- PASS: TestThing98 (0.00s)
+=== RUN   TestThing99
+--- PASS: TestThing99 (0.00s)
+=== RUN   TestThing100
+--- PASS: TestThing100 (0.00s)
+=== RUN   TestThing101
+--- PASS: TestThing101 (0.00s)
+=== RUN   TestThing102
+--- PASS: TestThing102 (0.00s)
+=== RUN   TestThing103
+--- PASS: TestThing103 (0.00s)
+=== RUN   TestThing104
+--- PASS: TestThing104 (0.00s)
+=== RUN   TestThing105
+--- PASS: TestThing105 (0.00s)
+=== RUN   TestThing106
+--- PASS: TestThing106 (0.00s)
+=== RUN   TestThing107
+--- PASS: TestThing107 (0.00s)
+=== RUN   TestThing108
+--- PASS: TestThing108 (0.00s)
+=== RUN   TestThing109
+--- PASS: TestThing109 (0.00s)
+=== RUN   TestThing110
+--- PASS: TestThing110 (0.00s)
+=== RUN   TestThing111
+--- PASS: TestThing111 (0.00s)
+=== RUN   TestThing112
+--- PASS: TestThing112 (0.00s)
+=== RUN   TestThing113
+--- PASS: TestThing113 (0.00s)
+=== RUN   TestThing114
+--- PASS: TestThing114 (0.00s)
+=== RUN   TestThing115
+--- PASS: TestThing115 (0.00s)
+=== RUN   TestThing116
+--- PASS: TestThing116 (0.00s)
+=== RUN   TestThing117
+--- PASS: TestThing117 (0.00s)
+=== RUN   TestThing118
+--- PASS: TestThing118 (0.00s)
+=== RUN   TestThing119
+--- PASS: TestThing119 (0.00s)
+=== RUN   TestThing120
+--- PASS: TestThing120 (0.00s)
+=== RUN   TestThing121
+--- PASS: TestThing121 (0.00s)
+=== RUN   TestThing122
+--- PASS: TestThing122 (0.00s)
+=== RUN   TestThing123
+--- PASS: TestThing123 (0.00s)
+=== RUN   TestThing124
+--- PASS: TestThing124 (0.00s)
+=== RUN   TestThing125
+--- PASS: TestThing125 (0.00s)
+=== RUN   TestThing126
+--- PASS: TestThing126 (0.00s)
+=== RUN   TestThing127
+--- PASS: TestThing127 (0.00s)
+=== RUN   TestThing128
+--- PASS: TestThing128 (0.00s)
+=== RUN   TestThing129
+--- PASS: TestThing129 (0.00s)
+=== RUN   TestThing130
+--- PASS: TestThing130 (0.00s)
+=== RUN   TestThing131
+--- PASS: TestThing131 (0.00s)
+=== RUN   TestThing132
+--- PASS: TestThing132 (0.00s)
+=== RUN   TestThing133
+--- PASS: TestThing133 (0.00s)
+=== RUN   TestThing134
+--- PASS: TestThing134 (0.00s)
+=== RUN   TestThing135
+--- PASS: TestThing135 (0.00s)
+=== RUN   TestThing136
+--- PASS: TestThing136 (0.00s)
+=== RUN   TestThing137
+--- PASS: TestThing137 (0.00s)
+=== RUN   TestThing138
+--- PASS: TestThing138 (0.00s)
+=== RUN   TestThing139
+--- PASS: TestThing139 (0.00s)
+=== RUN   TestThing140
+--- PASS: TestThing140 (0.00s)
+=== RUN   TestThing141
+--- PASS: TestThing141 (0.00s)
+=== RUN   TestThing142
+--- PASS: TestThing142 (0.00s)
+=== RUN   TestThing143
+--- PASS: TestThing143 (0.00s)
+=== RUN   TestThing144
+--- PASS: TestThing144 (0.00s)
+=== RUN   TestThing145
+--- PASS: TestThing145 (0.00s)
+=== RUN   TestThing146
+--- PASS: TestThing146 (0.00s)
+=== RUN   TestThing147
+--- PASS: TestThing147 (0.00s)
+=== RUN   TestThing148
+--- PASS: TestThing148 (0.00s)
+=== RUN   TestThing149
+--- PASS: TestThing149 (0.00s)
+=== RUN   TestThing150
+--- PASS: TestThing150 (0.00s)
+=== RUN   TestThing151
+--- PASS: TestThing151 (0.00s)
+=== RUN   TestThing152
+--- PASS: TestThing152 (0.00s)
+=== RUN   TestThing153
+--- PASS: TestThing153 (0.00s)
+=== RUN   TestThing154
+--- PASS: TestThing154 (0.00s)
+=== RUN   TestThing155
+--- PASS: TestThing155 (0.00s)
+=== RUN   TestThing156
+--- PASS: TestThing156 (0.00s)
+=== RUN   TestThing157
+--- PASS: TestThing157 (0.00s)
+=== RUN   TestThing158
+--- PASS: TestThing158 (0.00s)
+=== RUN   TestThing159
+--- PASS: TestThing159 (0.00s)
+=== RUN   TestThing160
+--- PASS: TestThing160 (0.00s)
+=== RUN   TestThing161
+--- PASS: TestThing161 (0.00s)
+=== RUN   TestThing162
+--- PASS: TestThing162 (0.00s)
+=== RUN   TestThing163
+--- PASS: TestThing163 (0.00s)
+=== RUN   TestThing164
+--- PASS: TestThing164 (0.00s)
+=== RUN   TestThing165
+--- PASS: TestThing165 (0.00s)
+=== RUN   TestThing166
+--- PASS: TestThing166 (0.00s)
+=== RUN   TestThing167
+--- PASS: TestThing167 (0.00s)
+=== RUN   TestThing168
+--- PASS: TestThing168 (0.00s)
+=== RUN   TestThing169
+--- PASS: TestThing169 (0.00s)
+=== RUN   TestThing170
+--- PASS: TestThing170 (0.00s)
+=== RUN   TestThing171
+--- PASS: TestThing171 (0.00s)
+=== RUN   TestThing172
+--- PASS: TestThing172 (0.00s)
+=== RUN   TestThing173
+--- PASS: TestThing173 (0.00s)
+=== RUN   TestThing174
+--- PASS: TestThing174 (0.00s)
+=== RUN   TestThing175
+--- PASS: TestThing175 (0.00s)
+=== RUN   TestThing176
+--- PASS: TestThing176 (0.00s)
+=== RUN   TestThing177
+--- PASS: TestThing177 (0.00s)
+=== RUN   TestThing178
+--- PASS: TestThing178 (0.00s)
+=== RUN   TestThing179
+--- PASS: TestThing179 (0.00s)
+=== RUN   TestThing180
+--- PASS: TestThing180 (0.00s)
+=== RUN   TestThing181
+--- PASS: TestThing181 (0.00s)
+=== RUN   TestThing182
+--- PASS: TestThing182 (0.00s)
+=== RUN   TestThing183
+--- PASS: TestThing183 (0.00s)
+=== RUN   TestThing184
+--- PASS: TestThing184 (0.00s)
+=== RUN   TestThing185
+--- PASS: TestThing185 (0.00s)
+=== RUN   TestThing186
+--- PASS: TestThing186 (0.00s)
+=== RUN   TestThing187
+--- PASS: TestThing187 (0.00s)
+=== RUN   TestThing188
+--- PASS: TestThing188 (0.00s)
+=== RUN   TestThing189
+--- PASS: TestThing189 (0.00s)
+=== RUN   TestThing190
+--- PASS: TestThing190 (0.00s)
+=== RUN   TestThing191
+--- PASS: TestThing191 (0.00s)
+=== RUN   TestThing192
+--- PASS: TestThing192 (0.00s)
+=== RUN   TestThing193
+--- PASS: TestThing193 (0.00s)
+=== RUN   TestThing194
+--- PASS: TestThing194 (0.00s)
+=== RUN   TestThing195
+--- PASS: TestThing195 (0.00s)
+=== RUN   TestThing196
+--- PASS: TestThing196 (0.00s)
+=== RUN   TestThing197
+--- PASS: TestThing197 (0.00s)
+=== RUN   TestThing198
+--- PASS: TestThing198 (0.00s)
+=== RUN   TestThing199
+--- PASS: TestThing199 (0.00s)
+=== RUN   TestBroken
+    broken_test.go:21: expected 4, got 5
+--- FAIL: TestBroken (0.01s)
+FAIL
+FAIL	example.com/pkg	0.412s
+FAIL

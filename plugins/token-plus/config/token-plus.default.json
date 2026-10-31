@@ -1,0 +1,42 @@
+{
+  "mode": "normal",
+  "maxToolOutputLines": 150,
+  "maxToolOutputChars": 6000,
+  "headLines": 50,
+  "tailLines": 75,
+  "minCompressChars": 2000,
+  "maxLineChars": 2000,
+  "maxImportantLines": 60,
+  "compactReminderTurns": 12,
+  "maxCompactRemindersPerSession": 3,
+  "compactReminderChars": 600000,
+  "largeFileWarningLines": 1000,
+  "readGuardMode": "advise",
+  "enableCommandRewriting": true,
+  "enableOutputCompression": true,
+  "enableReadGuard": true,
+  "enableSubagentRouting": false,
+  "loadProjectBrief": false,
+  "rewritePermission": "default",
+  "saveRawOutput": true,
+  "rawOutputRetention": 30,
+  "gitLogLimit": 30,
+  "findMaxDepth": 6,
+  "tokensPerChar": 0.25,
+  "protectedCommands": [
+    "rm",
+    "mv",
+    "git push",
+    "git reset",
+    "git clean",
+    "deploy"
+  ],
+  "protectedPaths": [
+    ".env",
+    ".env.*",
+    "secrets",
+    "credentials",
+    "*.pem",
+    "*.key"
+  ]
+}

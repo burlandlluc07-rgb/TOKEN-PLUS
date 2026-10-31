@@ -1,0 +1,5 @@
+node_modules/
+# token-plus runtime data (state, telemetry, raw outputs) — never commit
+.claude/token-plus/
+.claude/token-plus-state.json
+*.tmp

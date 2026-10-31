@@ -1,0 +1,123 @@
+Starting worker...
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 100, in call_0
+    return self.next_0(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 101, in call_1
+    return self.next_1(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 102, in call_2
+    return self.next_2(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 103, in call_3
+    return self.next_3(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 104, in call_4
+    return self.next_4(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 105, in call_5
+    return self.next_5(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 106, in call_6
+    return self.next_6(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 107, in call_7
+    return self.next_7(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 108, in call_8
+    return self.next_8(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 109, in call_9
+    return self.next_9(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 110, in call_10
+    return self.next_10(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 111, in call_11
+    return self.next_11(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 112, in call_12
+    return self.next_12(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 113, in call_13
+    return self.next_13(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 114, in call_14
+    return self.next_14(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 115, in call_15
+    return self.next_15(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 116, in call_16
+    return self.next_16(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 117, in call_17
+    return self.next_17(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 118, in call_18
+    return self.next_18(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 119, in call_19
+    return self.next_19(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 120, in call_20
+    return self.next_20(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 121, in call_21
+    return self.next_21(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 122, in call_22
+    return self.next_22(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 123, in call_23
+    return self.next_23(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 124, in call_24
+    return self.next_24(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 125, in call_25
+    return self.next_25(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 126, in call_26
+    return self.next_26(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 127, in call_27
+    return self.next_27(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 128, in call_28
+    return self.next_28(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 129, in call_29
+    return self.next_29(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 130, in call_30
+    return self.next_30(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 131, in call_31
+    return self.next_31(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 132, in call_32
+    return self.next_32(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 133, in call_33
+    return self.next_33(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 134, in call_34
+    return self.next_34(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 135, in call_35
+    return self.next_35(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 136, in call_36
+    return self.next_36(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 137, in call_37
+    return self.next_37(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 138, in call_38
+    return self.next_38(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 139, in call_39
+    return self.next_39(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 140, in call_40
+    return self.next_40(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 141, in call_41
+    return self.next_41(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 142, in call_42
+    return self.next_42(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 143, in call_43
+    return self.next_43(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 144, in call_44
+    return self.next_44(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 145, in call_45
+    return self.next_45(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 146, in call_46
+    return self.next_46(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 147, in call_47
+    return self.next_47(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 148, in call_48
+    return self.next_48(request)
+  File "/usr/lib/python3.12/site-packages/framework/core.py", line 149, in call_49
+    return self.next_49(request)
+  File "/work/app/service/handler50.py", line 150, in call_50
+    return self.next_50(request)
+  File "/work/app/service/handler51.py", line 151, in call_51
+    return self.next_51(request)
+  File "/work/app/service/handler52.py", line 152, in call_52
+    return self.next_52(request)
+  File "/work/app/service/handler53.py", line 153, in call_53
+    return self.next_53(request)
+  File "/work/app/service/handler54.py", line 154, in call_54
+    return self.next_54(request)
+  File "/work/app/service/handler55.py", line 155, in call_55
+    return self.next_55(request)
+  File "/work/app/service/handler56.py", line 156, in call_56
+    return self.next_56(request)
+  File "/work/app/service/handler57.py", line 157, in call_57
+    return self.next_57(request)
+  File "/work/app/service/handler58.py", line 158, in call_58
+    return self.next_58(request)
+  File "/work/app/service/handler59.py", line 159, in call_59
+    return self.next_59(request)
+KeyError: 'user_id'
