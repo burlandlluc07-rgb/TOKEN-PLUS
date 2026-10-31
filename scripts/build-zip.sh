@@ -5,10 +5,12 @@
 set -eu
 ROOT=$(cd "$(dirname "$0")/.." && pwd)
 OUT=${1:-"$ROOT/dist"}
+mkdir -p "$OUT"
+OUT=$(cd "$OUT" && pwd)  # absolute: zip runs from the staging dir
 VERSION=$(node -p "require('$ROOT/plugins/token-plus/.claude-plugin/plugin.json').version")
 STAGE=$(mktemp -d)
 trap 'rm -rf "$STAGE"' EXIT
-mkdir -p "$STAGE/token-plus" "$OUT"
+mkdir -p "$STAGE/token-plus"
 cp -R "$ROOT/plugins/token-plus/." "$STAGE/token-plus/"
 cp "$ROOT/README.md" "$ROOT/LICENSE" "$ROOT/CHANGELOG.md" "$STAGE/token-plus/"
 ZIP="$OUT/token-plus-$VERSION.zip"
