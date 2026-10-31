@@ -1,0 +1,14 @@
+{
+  "name": "token-plus",
+  "owner": { "name": "Lluc Burland" },
+  "metadata": { "description": "Marketplace for the token-plus Claude Code plugin." },
+  "plugins": [
+    {
+      "name": "token-plus",
+      "source": "./plugins/token-plus",
+      "description": "Reduce Claude Code token usage without losing correctness, control or prompt-cache stability.",
+      "version": "0.1.0",
+      "license": "MIT"
+    }
+  ]
+}

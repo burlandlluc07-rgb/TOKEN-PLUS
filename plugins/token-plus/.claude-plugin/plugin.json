@@ -1,0 +1,10 @@
+{
+  "name": "token-plus",
+  "version": "0.1.0",
+  "description": "Token optimizer for Claude Code: prevents waste before it enters context (safe command rewriting, output compression with raw logs, read guard, compaction reminders, cheap subagents, audit).",
+  "author": { "name": "Lluc Burland" },
+  "homepage": "https://github.com/burlandlluc07-rgb/TOKEN-PLUS",
+  "repository": "https://github.com/burlandlluc07-rgb/TOKEN-PLUS",
+  "license": "MIT",
+  "keywords": ["tokens", "context", "cost", "compression", "hooks"]
+}

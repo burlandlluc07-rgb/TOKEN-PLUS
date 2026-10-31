@@ -1,0 +1,273 @@
+npm http fetch GET 200 https://registry.npmjs.org/pkg-0 46ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-1 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-2 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-3 88ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-4 11ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-5 14ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-6 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-7 17ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-8 51ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-9 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-10 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-11 69ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-12 32ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-13 9ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-14 16ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-15 60ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-16 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-17 13ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-18 35ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-19 16ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-20 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-21 59ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-22 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-23 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-24 20ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-25 33ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-26 85ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-27 85ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-28 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-29 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-30 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-31 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-32 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-33 11ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-34 33ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-35 10ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-36 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-37 22ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-38 42ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-39 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-40 23ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-41 74ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-42 20ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-43 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-44 44ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-45 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-46 28ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-47 18ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-48 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-49 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-50 86ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-51 29ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-52 52ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-53 17ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-54 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-55 13ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-56 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-57 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-58 84ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-59 31ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-60 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-61 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-62 59ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-63 45ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-64 64ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-65 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-66 63ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-67 51ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-68 43ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-69 36ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-70 28ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-71 36ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-72 15ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-73 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-74 43ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-75 72ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-76 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-77 48ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-78 62ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-79 41ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-80 82ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-81 14ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-82 20ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-83 70ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-84 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-85 26ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-86 48ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-87 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-88 67ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-89 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-90 10ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-91 90ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-92 14ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-93 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-94 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-95 45ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-96 48ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-97 49ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-98 81ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-99 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-100 79ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-101 63ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-102 13ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-103 16ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-104 39ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-105 65ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-106 90ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-107 13ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-108 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-109 44ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-110 87ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-111 78ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-112 62ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-113 41ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-114 54ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-115 90ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-116 49ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-117 7ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-118 64ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-119 50ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-120 26ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-121 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-122 19ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-123 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-124 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-125 32ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-126 41ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-127 21ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-128 36ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-129 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-130 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-131 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-132 15ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-133 26ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-134 62ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-135 56ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-136 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-137 40ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-138 22ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-139 60ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-140 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-141 40ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-142 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-143 50ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-144 53ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-145 34ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-146 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-147 15ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-148 27ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-149 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-150 34ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-151 89ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-152 34ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-153 6ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-154 67ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-155 80ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-156 28ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-157 38ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-158 41ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-159 5ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-160 23ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-161 58ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-162 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-163 52ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-164 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-165 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-166 45ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-167 21ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-168 70ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-169 84ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-170 88ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-171 11ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-172 63ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-173 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-174 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-175 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-176 56ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-177 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-178 18ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-179 66ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-180 86ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-181 56ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-182 12ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-183 29ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-184 13ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-185 31ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-186 61ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-187 25ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-188 19ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-189 48ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-190 81ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-191 11ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-192 18ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-193 5ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-194 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-195 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-196 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-197 17ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-198 51ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-199 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-200 8ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-201 14ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-202 31ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-203 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-204 53ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-205 24ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-206 86ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-207 37ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-208 49ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-209 82ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-210 51ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-211 65ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-212 20ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-213 19ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-214 67ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-215 64ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-216 66ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-217 66ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-218 44ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-219 15ms (cache revalidated)
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory.
+npm WARN deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+
+added 812 packages, and audited 813 packages in 14s
+
+97 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
