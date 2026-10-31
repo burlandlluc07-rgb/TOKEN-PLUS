@@ -10,12 +10,14 @@ permissions:
 
 jobs:
   test:
+    # Linux only: macOS runners bill minutes at 10x and quickly exhaust the
+    # free private-repo allowance. Add macos-latest back if you have budget.
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, macos-latest]
-        node: [18, 20, 22]
-    runs-on: ${{ matrix.os }}
+        node: [18, 22]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

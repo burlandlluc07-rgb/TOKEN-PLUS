@@ -12,4 +12,4 @@ All notable changes to token-plus are documented here. This project follows [Sem
 - Skills `targeted-reading` and `project-brief`; Haiku agents `quick-reader`, `quick-reviewer`, `doc-writer`.
 - Commands `/token-plus:status`, `/token-plus:budget`, `/token-plus:audit`, `/token-plus:raw`, `/token-plus:init`, `/token-plus:reset`.
 - Verified end-to-end with Claude Code headless runs: `git log` rewrite applied without a permission decision; `seq 1 20000` output compressed via `updatedToolOutput`.
-- Test suite (unit + fixture-based integration), plugin layout validator, CI on Linux/macOS × Node 18/20/22.
+- Test suite (unit + fixture-based integration), plugin layout validator, CI on Linux × Node 18/22 (low Actions-minute cost).
